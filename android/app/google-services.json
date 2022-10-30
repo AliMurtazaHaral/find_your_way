@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "507289326572",
+    "project_id": "find-my-way-3278e",
+    "storage_bucket": "find-my-way-3278e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507289326572:android:f2e942cdc083f15ccca6c9",
+        "android_client_info": {
+          "package_name": "com.example.find_your_way"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507289326572-cbqbem2soimlq4np4huig64il1our3l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjmp9D7AZ5ny7IyVpQpl-S88sFw6TWyCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507289326572-cbqbem2soimlq4np4huig64il1our3l5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
